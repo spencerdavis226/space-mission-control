@@ -1,0 +1,17 @@
+.mission-card {
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px 20px;
+  background-color: #161b22;
+}
+
+.mission-card h2 {
+  font-size: 1.5rem;
+  color: #f78166;
+}
+
+.mission-card p {
+  margin: 5px 0;
+  font-size: 1rem;
+}

@@ -1,0 +1,27 @@
+/* Global Styles */
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #0d1117;
+  color: #c9d1d9;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  margin: 20px 0;
+  color: #c9d1d9;
+}
+
+p {
+  text-align: center;
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}

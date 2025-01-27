@@ -1,0 +1,30 @@
+.filter-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: 2px solid #30363d;
+  border-radius: 5px;
+  background-color: #21262d;
+  color: #c9d1d9;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #30363d;
+}
+
+button:focus {
+  outline: none;
+  border-color: #58a6ff;
+}
+
+button.active {
+  border-color: #f78166;
+}
